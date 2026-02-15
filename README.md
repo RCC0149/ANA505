@@ -1,5 +1,3 @@
----
-
 # Advanced AI Applications in Manufacturing & Semiconductor Systems
 
 **Author:** Randall C. Crawford
